@@ -1,0 +1,36 @@
+# Private and confidential founder documents
+PRIVATE_*.md
+.private/
+
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Production build outputs
+dist/
+build/
+.next/
+out/
+
+# Video recordings & raw media
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.avi
+recordings/
+media/
+
+# Environment variables & local secrets
+.env
+.env.local
+.env.*.local
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.log

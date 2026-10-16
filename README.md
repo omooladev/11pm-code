@@ -28,7 +28,9 @@
 Rather than following step-by-step tutorials, sessions place developers in real-world scenarios: building UI primitives, engineering backend endpoints, debugging broken state flows, or stress-testing new libraries under tight constraints.
 
 ### Key Tenets
+
 - **Habit Over Motivation:** Showing up consistently at 11:00 PM twice a week.
+
 - **Problem Solving Under Pressure:** Navigating ambiguous requirements and writing functioning solutions in 35 minutes.
 - **Architectural Diversity:** Comparing different approaches to the same problem (*"Same challenge, different stacks or architectural paradigms"*).
 - **Radical Honesty in Debriefs:** Dissecting bugs, trade-offs, edge cases, and incomplete features during the post-sprint review.
